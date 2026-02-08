@@ -4,7 +4,7 @@ A gaming-themed environmental monitoring platform with Matrix/Cyberpunk aestheti
 
 ## 🚀 Live Demo
 
-- **Main App**: [Vercel Deployment Link]
+- **Main App**: https://city-guardian-main.vercel.app/
 - **Environmental Dashboard**: `/environmental`
 
 ## ✨ Features
@@ -46,7 +46,7 @@ A gaming-themed environmental monitoring platform with Matrix/Cyberpunk aestheti
 
 ```bash
 # Clone the repository
-git clone https://github.com/AnuragTiwari1508/cityguardian_FRONTEND
+git clone (https://github.com/Sahu-Chitransh/City_Guardian)
 
 # Navigate to project directory  
 cd cityguardian_FRONTEND
